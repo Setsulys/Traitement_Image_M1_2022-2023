@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp02/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -g -Wall -Wextra -Wpedantic -pedantic-errors -std=gnu++17 -o CMakeFiles/tp2_pick_color.dir/src/tp2_pick_color.cpp.o -c \"/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp02/tp02_src/src/tp2_pick_color.cpp\"",
+  "file": "/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp02/tp02_src/src/tp2_pick_color.cpp"
+},
+{
+  "directory": "/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp02/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -g -Wall -Wextra -Wpedantic -pedantic-errors -std=gnu++17 -o CMakeFiles/tp2_exo3.dir/src/tp2_exo3.cpp.o -c \"/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp02/tp02_src/src/tp2_exo3.cpp\"",
+  "file": "/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp02/tp02_src/src/tp2_exo3.cpp"
+},
+{
+  "directory": "/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp02/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -g -Wall -Wextra -Wpedantic -pedantic-errors -std=gnu++17 -o CMakeFiles/tp2_exo2.dir/src/tp2_exo2.cpp.o -c \"/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp02/tp02_src/src/tp2_exo2.cpp\"",
+  "file": "/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp02/tp02_src/src/tp2_exo2.cpp"
+},
+{
+  "directory": "/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp02/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -g -Wall -Wextra -Wpedantic -pedantic-errors -std=gnu++17 -o CMakeFiles/tp2_exo1.dir/src/tp2_exo1.cpp.o -c \"/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp02/tp02_src/src/tp2_exo1.cpp\"",
+  "file": "/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp02/tp02_src/src/tp2_exo1.cpp"
+}
+]

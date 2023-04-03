@@ -1,0 +1,3 @@
+/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp06/tp06/build/CMakeFiles/rebuild_cache.dir
+/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp06/tp06/build/CMakeFiles/edit_cache.dir
+/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp06/tp06/build/CMakeFiles/morpho.dir

@@ -1,0 +1,6 @@
+/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp02/build/CMakeFiles/rebuild_cache.dir
+/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp02/build/CMakeFiles/edit_cache.dir
+/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp02/build/CMakeFiles/tp2_pick_color.dir
+/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp02/build/CMakeFiles/tp2_exo3.dir
+/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp02/build/CMakeFiles/tp2_exo2.dir
+/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp02/build/CMakeFiles/tp2_exo1.dir

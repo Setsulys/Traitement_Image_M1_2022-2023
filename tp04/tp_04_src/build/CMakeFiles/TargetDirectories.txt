@@ -1,3 +1,0 @@
-/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp04/tp_04_src/build/CMakeFiles/rebuild_cache.dir
-/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp04/tp_04_src/build/CMakeFiles/edit_cache.dir
-/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp04/tp_04_src/build/CMakeFiles/tp4_exo1.dir

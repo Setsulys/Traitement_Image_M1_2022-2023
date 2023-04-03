@@ -1,5 +1,0 @@
-/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp01/build/CMakeFiles/rebuild_cache.dir
-/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp01/build/CMakeFiles/edit_cache.dir
-/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp01/build/CMakeFiles/tp1_exo4.dir
-/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp01/build/CMakeFiles/tp1_exo3.dir
-/home/2inf1/steven.ly/Documents/S2/Traitement d'image/tp01/build/CMakeFiles/tp1_exo2.dir
